@@ -1,0 +1,2 @@
+// 2. Grade report generator
+//    Take n students' names (array of strings) and their marks (array of ints) as input. Print each student's name, their marks, and their letter grade (reuse Day 2's grading logic as a function). At the end, print the class average and who scored above it.

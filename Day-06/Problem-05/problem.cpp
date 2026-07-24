@@ -1,0 +1,2 @@
+// 5. Palindrome-check on full sentences (harder than Day 5's version)
+//    Extend Day 5's palindrome checker to work on a full sentence, ignoring spaces, punctuation, and letter case. E.g., "A man a plan a canal Panama" should be recognized as a palindrome. (Hint: build a "cleaned" version of the string first — only lowercase letters, no spaces/punctuation — then apply your existing two-pointer palindrome logic.)

@@ -1,0 +1,2 @@
+// 6. Simple student record system
+//    Combine everything: take n (number of students), then for each student take name, age, and 3 subject marks (use a 2D array or 3 parallel arrays). Compute each student's average. Print a formatted report, then print the name of the topper (highest average). This is the closest thing to a "mini project" you've built purely from today's review, no new syntax required.

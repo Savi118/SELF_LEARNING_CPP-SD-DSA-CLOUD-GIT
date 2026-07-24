@@ -1,0 +1,2 @@
+// 4. Caesar cipher (basic encryption)
+//    Take a string and a shift number. Shift every letter forward by that many positions in the alphabet (wrap around from 'z' back to 'a'). E.g., "abc" shifted by 2 → "cde". This combines string looping, char arithmetic, and modulo — a genuinely common early interview problem.
