@@ -1,0 +1,1 @@
+1. I just do it by just implementing the thoughts of what i have to done and how i do it in problem 2 and implementing previous solution thinking in it.
