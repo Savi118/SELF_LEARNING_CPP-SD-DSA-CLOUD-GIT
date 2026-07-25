@@ -1,0 +1,2 @@
+1. It is easy to execute while i generally have to remove those special character and space from the sentence and then check for the palindrome. 
+2. It's the same logic with just a little work or modifications needed.
