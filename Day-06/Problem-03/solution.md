@@ -1,0 +1,2 @@
+1. In this section i didn't get much confused it just new to me but a concept is easy i just remember the first time how i use loop to iterate a matrix and using that same principal i iterate the loop and get the response.
+2. But in the adding principal i have to think in row which of the condition might use to sum so i choose to take one thing constant for adding like row i choose i to be constant and add the values of j in sum and in col i choose j to be constant and add the values of i in sum.
