@@ -5,7 +5,7 @@
 #include <cctype>
 using namespace std;
 
-bool isPalidrome(string str)
+bool isPalindrome(string str)
 {
         // After making the correct method we will do make a proper function here
         int size = str.length();
@@ -30,15 +30,15 @@ int main()
         cout << "Enter any word: ";
         cin >> text;
 
-        bool result = isPalidrome(text);
+        bool result = isPalindrome(text);
 
         if (result)
         {
-                cout << text << " is palidrome." << endl;
+                cout << text << " is palindrome." << endl;
         }
         else
         {
-                cout << text << " is not palidrome." << endl;
+                cout << text << " is not palindrome." << endl;
         }
         return 0;
 }
