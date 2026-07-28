@@ -10,6 +10,7 @@ void printPermutations(string current, string remaining)
         if (remaining.empty())
         {
                 cout << current << endl;
+                return;
         }
 
         for (int i = 0; i < remaining.length(); i++)
