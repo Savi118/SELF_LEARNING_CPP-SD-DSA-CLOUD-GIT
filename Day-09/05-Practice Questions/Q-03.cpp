@@ -1,6 +1,5 @@
 // 3. Implement insertionSort from scratch, test on the same array
 
-// 2. Implement selectionSort from scratch, test on the same array
 
 #include <iostream>
 using namespace std;
@@ -17,7 +16,7 @@ void printArray(int arr[], int size)
 
 void insertionSort(int arr[], int size)
 {
-        for (int i = 0; i < size; i++)
+        for (int i = 1; i < size; i++)
         {
                 int key = arr[i];
                 int j = i - 1;
