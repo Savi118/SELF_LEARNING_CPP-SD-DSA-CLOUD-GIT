@@ -1,9 +1,5 @@
 // 4. Add a swap counter to all three (a variable incremented every time a swap happens) — print the total swaps for the same input array across all three algorithms and compare the numbers. Which does the fewest swaps?
 
-// 3. Implement insertionSort from scratch, test on the same array
-
-// 2. Implement selectionSort from scratch, test on the same array
-
 #include <iostream>
 using namespace std;
 
